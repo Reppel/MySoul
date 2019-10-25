@@ -1,0 +1,41 @@
+/*表单登录设置*/
+.top{width:400px;
+height:420px;
+background-color:#ffffff;
+text-align:center;/*文本元素居中*/
+line-height:25px;/*行高*/
+margin:120px auto;
+position:relative;
+
+}
+.top_bottom{width:400px;
+height:75px;
+background-color:#f5f5f5;
+position:absolute;left;0;bottom:0;
+
+}
+/*页面背景设置div class类里不同浏览器会有空白,bady里设置背景页面底部会清除空白*/
+.box{
+background-image:url("../img/register.png");
+
+position:absolute; 
+top:0; 
+left:0; 
+height:100%; 
+width:100%; 
+background-position: center 0; 
+background-repeat: no-repeat; 
+background-attachment:fixed; /*背景图固定不动*/
+background-size: cover; 
+
+
+ }
+ .top .topic{font-family:"宋体";
+ font-size:35px;
+ color:#0066ff;}
+ .top .t1{color:#0066ff;font-size:19px;}
+.top .top_bottom .top_bottom_b{display:block;
+margin:27px;
+ text-decoration: none;
+color:#0066ff;
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+<link rel="stylesheet" href="css/register.css" type="text/css" />
+
+ </head>
+ <body class="box">
+
+<div class="top">
+<form>
+<br><a class="topic">MySoul</a></br>
+<br><a class="t1">注册mysoul发现自己</a></br>
+<br><input  type="text" placeholder="手机号" onfocus="if(placeholder=='手机号')  {placeholder=''}" onblur="if (placeholder=='') {placeholder='手机号'}" name="keyword"
+size="12" style="border:0px;border-bottom:#878787 1px solid; width:178px; outline:none;" ></br>
+<br><input type="text" pattern="[0-9]{6}" placeholder="输入 6 位短信验证码" onfocus="if(placeholder=='输入 6 位短信验证码')  {placeholder=''}" onblur="if (placeholder=='') {placeholder='输入 6 位短信验证码'}" name="keyword"
+size="12" style="border:0px;border-bottom:#878787 1px solid; width:178px; outline:none;"></br>
+<br><input type="submit" value="注册" class="sub" 
+href="javascript:;" style="width:178px; height:30px;color:#0066ff"><br>
+</form>
+<div class="top_bottom">
+<a class="top_bottom_b" href="index.html">已有账号？登录</a>
+
+</div>
+</div>
+
+
+
+
+  
+ </body>
+</html>

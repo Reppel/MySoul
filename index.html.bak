@@ -1,0 +1,36 @@
+﻿<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+<link rel="stylesheet" href="css/index.css" type="text/css" />
+
+ </head>
+ <body class="box">
+
+<div class="top">
+<form>
+<br><a class="topic">MySoul</a></br>
+<br><a class="t1">登录mysoul发现自己</a></br>
+<br><input  type="text" placeholder="手机号或邮箱"
+size="12" style="border:0px;border-bottom:#878787 1px solid; width:178px; outline:none;" ></br>
+<br><input type="text" placeholder="密码" 
+size="12" style="border:0px;border-bottom:#878787 1px solid; width:178px; outline:none;"></br>
+<br><input type="submit" value="登录" class="sub" style="width:178px; height:30px;color:#0066ff"><br>
+</form>
+<div class="top_bottom">
+<a class="top_bottom_b" href="register.html">没有账号？注册</a>
+
+</div>
+</div>
+
+
+
+
+  
+ </body>
+</html>
